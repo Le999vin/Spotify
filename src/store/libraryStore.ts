@@ -6,7 +6,7 @@ import type { LibraryEvent } from "@/core/domain/events";
 import { initialLibraryState, reduceLibrary } from "@/core/library/reducer";
 import type { LibraryState } from "@/core/domain/types";
 
-const STORAGE_KEY = "pulsefy-library";
+const STORAGE_KEY = "Spotify-library";
 
 type LibraryStore = {
   state: LibraryState;

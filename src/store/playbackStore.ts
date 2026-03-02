@@ -9,7 +9,7 @@ import { reducePlayback, initialPlaybackState } from "@/core/playback/reducer";
 import { selectIsPlaying } from "@/core/playback/selectors";
 import { tracksById } from "@/lib/mock/data";
 
-const STORAGE_KEY = "pulsefy-playback";
+const STORAGE_KEY = "Spotify-playback";
 
 type PlaybackStore = {
   state: PlaybackState;

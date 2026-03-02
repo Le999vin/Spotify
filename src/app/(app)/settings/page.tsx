@@ -61,9 +61,9 @@ export default function SettingsPage() {
       </section>
 
       <section className="rounded-[1.75rem] border border-white/8 bg-white/4 p-6">
-        <h2 className="font-display text-2xl font-semibold">About Pulsefy</h2>
+        <h2 className="font-display text-2xl font-semibold">About Spotify</h2>
         <p className="mt-3 max-w-2xl text-sm leading-7 text-[var(--muted-foreground)]">
-          Pulsefy mirrors familiar music UX patterns while keeping its own name, palette, and
+          Spotify mirrors familiar music UX patterns while keeping its own name, palette, and
           placeholder artwork. The current frontend runs entirely against local mock data and a
           functional-core playback model.
         </p>

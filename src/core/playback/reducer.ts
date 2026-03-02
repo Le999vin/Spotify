@@ -4,7 +4,7 @@ import { buildShuffledOrder, reorder } from "@/core/playback/queue";
 import { clampProgress, isNearTrackStart } from "@/core/playback/time";
 import { clamp } from "@/lib/utils";
 
-const DEFAULT_SHUFFLE_SEED = "pulsefy-default-seed";
+const DEFAULT_SHUFFLE_SEED = "Spotify-default-seed";
 
 export const initialPlaybackState: PlaybackState = {
   status: "idle",

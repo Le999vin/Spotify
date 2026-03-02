@@ -92,7 +92,7 @@ input:focus-visible,
   color: var(--muted-foreground);
 }
 
-.pulsefy-grid {
+.Spotify-grid {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.018) 1px, transparent 1px),
     linear-gradient(90deg, rgba(255, 255, 255, 0.018) 1px, transparent 1px);

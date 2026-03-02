@@ -7,7 +7,7 @@ import type { PlaylistState } from "@/core/domain/types";
 import { reducePlaylists } from "@/core/playlists/reducer";
 import { playlistsById } from "@/lib/mock/data";
 
-const STORAGE_KEY = "pulsefy-playlists";
+const STORAGE_KEY = "Spotify-playlists";
 
 const defaultPlaylistState: PlaylistState = {
   playlistsById: { ...playlistsById },

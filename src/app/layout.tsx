@@ -14,8 +14,8 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Pulsefy",
-  description: "Pulsefy is a Spotify-inspired music experience built with Next.js.",
+  title: "Spotify",
+  description: "Spotify is a Spotify-inspired music experience built with Next.js.",
 };
 
 export default function RootLayout({

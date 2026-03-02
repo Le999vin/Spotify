@@ -19,7 +19,7 @@ export function reducePlaylists(
           [event.id]: {
             id: event.id,
             name: event.name,
-            description: "A fresh Pulsefy mix ready for your next session.",
+            description: "A fresh Spotify mix ready for your next session.",
             ownerName: "You",
             trackIds: [],
           },

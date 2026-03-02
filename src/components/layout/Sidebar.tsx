@@ -48,7 +48,7 @@ export function Sidebar() {
             P
           </div>
           <div>
-            <p className="font-display text-lg font-semibold">Pulsefy</p>
+            <p className="font-display text-lg font-semibold">Spotify</p>
             <p className="text-xs uppercase tracking-[0.24em] text-[var(--muted-foreground)]">
               Premium Skeleton
             </p>

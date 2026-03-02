@@ -76,7 +76,7 @@ export function NowPlayingSheet({ isOpen, onClose }: NowPlayingSheetProps) {
                   {nowPlaying?.title ?? "Select a track"}
                 </p>
                 <p className="truncate text-sm text-[var(--muted-foreground)]">
-                  {nowPlaying ? artistsById[nowPlaying.artistId]?.name : "Pulsefy"}
+                  {nowPlaying ? artistsById[nowPlaying.artistId]?.name : "Spotify"}
                 </p>
               </div>
               {nowPlaying ? (

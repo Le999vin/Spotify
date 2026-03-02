@@ -38,7 +38,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
         <div>
           <h1 className="font-display text-4xl font-semibold">Browse all</h1>
           <p className="mt-2 text-sm text-[var(--muted-foreground)]">
-            Start with Pulsefy collections, then narrow the query from the topbar.
+            Start with Spotify collections, then narrow the query from the topbar.
           </p>
         </div>
         <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">

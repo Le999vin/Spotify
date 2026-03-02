@@ -87,7 +87,7 @@ export function CommandPalette() {
   return (
     <CommandDialog open={open} onOpenChange={setOpen}>
       <CommandInput
-        placeholder="Search Pulsefy"
+        placeholder="Search Spotify"
         value={query}
         onValueChange={setQuery}
       />
